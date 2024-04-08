@@ -13,10 +13,10 @@ Password: admin
 
 **Student Login Details**
 
-Username: christine
+Username: rashi
 Password: password
 
 **Teacher Login Details**
 
-Username: kevin
+Username: danush
 Password: password
