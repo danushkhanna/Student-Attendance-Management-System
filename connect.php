@@ -5,7 +5,7 @@
     $dbname = "attmgsystem";
     
     // Create connection
-    $con = new mysqli($servername, $username, $password, $dbname);
+    $connect = new mysqli($servername, $username, $password, $dbname);
     
     // Check connection
     if(mysqli_connect_errno()) {
